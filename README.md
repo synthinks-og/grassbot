@@ -15,7 +15,7 @@
 
 2. After that, clone the repo:
     ```
-    git clone https://github.com/Semutireng22/grassbotgit && cd grassbot && pip3 install websockets_proxy && pip3 install loguru
+    git clone https://github.com/synthinks-og/grassbotgit && cd grassbot && pip3 install websockets_proxy && pip3 install loguru
     ```
 
 3. Then, edit main.py file in the "_user_id" and "socks5_proxy_list" sections. You can use: 
